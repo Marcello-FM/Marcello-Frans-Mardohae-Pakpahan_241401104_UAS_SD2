@@ -1,4 +1,4 @@
-# UTS SD2
+# UAS SD2
 
 Halow adik-adik SD2!
 
